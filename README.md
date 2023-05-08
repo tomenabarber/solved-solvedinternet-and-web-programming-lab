@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solvedinternet-and-web-programming-lab
+<br>
+Activity – 1
+
+Description Create a simple web page for publishing your resume on internet. Design your resume template in Word or Libre Office document format then proceed with HTML script. Also visualize the HTML script in Tree Structure to understand the Document Object Model (DOM). Your resume content should be developed by using the following HTML Tags.Comments Tag : Describe Author, Date and DescriptionHeader Tags : Name, Email ID, URL, Address, Section etc.Image: Your Profile Picture (Passport Size)Paragraph : Your Objective or SummaryTables : Your educational qualificationLists : List out your Technical Expertise etc.Hyperlinks : Link your hobbies or any relevant information to appropriate web content
